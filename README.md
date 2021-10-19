@@ -10,7 +10,7 @@ Continuous Engineering CLI is a modular command line CLI for the Continuous Engi
 [![GoDoc](https://godoc.org/github.com/ContinuousEngineeringProject/ce-cli?status.svg)](https://godoc.org/github.com/ContinuousEngineeringProject/ce-cli)
 [![GitHub release](https://img.shields.io/github/v/release/ContinuousEngineeringProject/ce-cli?include_prereleases)](https://github.com/ContinuousEngineeringProject/ce-cli/releases/latest)
 [![Slack Status](https://img.shields.io/badge/slack-join_chat-white.svg?logo=slack&style=social)](https://continuousengproject.slack.com)
-
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ContinuousEngineeringProject_ce-cli2&metric=alert_status)](https://sonarcloud.io/dashboard?id=ContinuousEngineeringProject_ce-cli2)
 
 ## Installation
 
